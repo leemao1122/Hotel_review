@@ -1,0 +1,10 @@
+5	4
+7	7	8	6	9
+5	9	9	7	10
+7	10	7	9	8
+10	8	9	10	9
+Grand Solmar Lands End Resort and Spa
+Sandos Finisterra Los Cabos
+Grand Fiesta Americana Los Cabos
+Marina Fiesta Resort & Spa
+RIU Santa Fe
